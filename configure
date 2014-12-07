@@ -25,7 +25,7 @@ fi
 
 
 if test -z "$NGX_PLATFORM"; then
-    echo "checking for OS"
+    echo "checking  b for OS"
 
     NGX_SYSTEM=`uname -s 2>/dev/null`
     NGX_RELEASE=`uname -r 2>/dev/null`
